@@ -1,0 +1,37 @@
+Node ID,Avg Deaths,Level,County Count,Counties
+cube4_cluster0,101.0,High,1,Virginia Beach City
+cube4_cluster1,98.0,High,1,Prince William County
+cube5_cluster0,101.0,High,1,Virginia Beach City
+cube5_cluster1,98.0,High,1,Prince William County
+cube9_cluster0,107.0,High,1,Chesterfield County
+cube9_cluster1,98.0,High,1,Prince William County
+cube11_cluster0,2.0,Low,3,"Lee County, Franklin City, Clarke County"
+cube11_cluster1,24.0,High,1,Frederick County
+cube12_cluster0,52.0,High,2,"Spotsylvania County, Chesapeake City"
+cube12_cluster1,14.5,High,2,"Lee County, Frederick County"
+cube13_cluster0,52.0,High,1,Chesapeake City
+cube13_cluster1,52.0,High,1,Spotsylvania County
+cube14_cluster0,71.0,High,1,Norfolk City
+cube14_cluster1,65.0,High,1,Roanoke City
+cube16_cluster0,25.666666666666668,High,3,"Loudoun County, Henry County, Tazewell County"
+cube16_cluster1,1.5,Low,4,"Lee County, Franklin City, Norton City, Clarke County"
+cube17_cluster0,16.4,High,5,"Lee County, Loudoun County, Norton City, Henry County, Tazewell County"
+cube17_cluster1,52.0,High,2,"Spotsylvania County, Chesapeake City"
+cube18_cluster0,52.0,High,2,"Spotsylvania County, Chesapeake City"
+cube18_cluster1,57.0,High,1,Newport News City
+cube21_cluster0,5.428571428571429,Low,7,"Wise County, Highland County, Scott County, Winchester City, Norton City, Accomack County, Bristol City"
+cube21_cluster1,30.333333333333332,High,6,"Suffolk City, Stafford County, Warren County, Hampton City, Portsmouth City, Arlington County"
+cube22_cluster0,4.25,Low,4,"Wise County, Scott County, Norton City, Bristol City"
+cube22_cluster1,31.8,High,5,"Stafford County, Warren County, Hampton City, Portsmouth City, Arlington County"
+cube24_cluster0,3.764705882352941,Low,17,"Dickenson County, Grayson County, Shenandoah County, Highland County, Rockingham County, Russell County, Westmoreland County, Falls Church City, Unknown, Buchanan County, Danville City, Scott County, Bath County, Winchester City, Harrisonburg City, Northampton County, Washington County"
+cube24_cluster1,27.0,High,7,"Suffolk City, Stafford County, Warren County, Hampton City, Arlington County, Alexandria City, Roanoke County"
+cube25_cluster0,2.4,Low,5,"Dickenson County, Russell County, Buchanan County, Scott County, Washington County"
+cube25_cluster1,29.4,High,5,"Stafford County, Warren County, Hampton City, Arlington County, Roanoke County"
+cube26_cluster0,17.5,High,8,"Pittsylvania County, Culpeper County, Orange County, Montgomery County, Fredericksburg City, Franklin County, Hanover County, Petersburg City"
+cube26_cluster1,3.864864864864865,Low,37,"Isle of Wight County, Northumberland County, Dickenson County, Fauquier County, Southampton County, Grayson County, Rappahannock County, Bland County, Wythe County, Shenandoah County, Page County, Alleghany County, Smyth County, Augusta County, Greensville County, Lexington City, Staunton City, Manassas Park City, King George County, Mathews County, Russell County, Westmoreland County, Patrick County, Craig County, Buchanan County, Mecklenburg County, Emporia City, Galax City, Covington City, Madison County, Halifax County, Fairfax City, Carroll County, Harrisonburg City, Northampton County, Washington County, Manassas City"
+cube27_cluster0,28.5,High,2,"Hanover County, Petersburg City"
+cube27_cluster1,1.8,Low,5,"Dickenson County, Smyth County, Russell County, Buchanan County, Washington County"
+cube28_cluster0,9.424242424242424,Low,33,"Martinsville City, Fauquier County, Rappahannock County, York County, Page County, Gloucester County, Louisa County, Augusta County, Brunswick County, Waynesboro City, Botetourt County, Orange County, James City County, Hopewell City, Montgomery County, Amherst County, Albemarle County, King George County, Powhatan County, Fredericksburg City, Pulaski County, Bedford County, Patrick County, Caroline County, Giles County, Mecklenburg County, King William County, Halifax County, Franklin County, Charlottesville City, Lynchburg City, Dinwiddie County, Manassas City"
+cube28_cluster1,2.34375,Low,32,"Isle of Wight County, Northumberland County, Southampton County, Bland County, Wythe County, Colonial Heights City, Floyd County, Middlesex County, Lexington City, Staunton City, New Kent County, Charles City County, Mathews County, Lunenburg County, Fluvanna County, Craig County, King and Queen County, Surry County, Buena Vista City, Nelson County, Poquoson City, Emporia City, Rockbridge County, Lancaster County, Galax City, Greene County, Richmond County, Madison County, Sussex County, Essex County, Carroll County, Radford City"
+cube29_cluster0,8.904761904761905,Low,21,"Prince George County, Charlotte County, Gloucester County, Louisa County, Waynesboro City, Botetourt County, James City County, Hopewell City, Amherst County, Albemarle County, Prince Edward County, Powhatan County, Bedford County, Campbell County, King William County, Salem City, Charlottesville City, Lynchburg City, Amelia County, Dinwiddie County, Goochland County"
+cube29_cluster1,2.375,Low,16,"Nottoway County, Colonial Heights City, New Kent County, Charles City County, Lunenburg County, Williamsburg City, Cumberland County, Fluvanna County, Buckingham County, King and Queen County, Surry County, Nelson County, Poquoson City, Appomattox County, Rockbridge County, Essex County"
